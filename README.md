@@ -1,5 +1,5 @@
-# Network-Socket
-Soquete de rede desenvolvido para a matéria de Redes de Computadores 1.
+# Network Socket
+Soquete de rede desenvolvido para a matéria de Redes de Computadores I
 
 ## Descrição
 O cliente envia ao servidor características visuais de cor, formato e tamanho para receber de resposta uma tela 400x400 printada com a figura gerada dentro das informações enviadas. As cores se resumem nas mais simples (azul, vermelho, rosa, verde...).
