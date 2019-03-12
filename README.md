@@ -26,7 +26,7 @@ Não são aceitos caracteres em maiúsculo, com acentuação ou com algum outro 
 - **Enviado pelo servidor:** retorno visual
 
 
-## CÓDIGOS DE ERRO RETORNADOS PELO CLIENTE/SERVIDOR
+## CÓDIGOS DE ERRO RETORNADOS PELO SERVIDOR
 Caso a conexão não tenha êxito, o cliente retorna o erro de conexão recusada.
 
 _error: [Errno 111] Connection refused_
